@@ -332,6 +332,13 @@ class Program
 			}
 		}
 		
+		//inheritance
+		
+		public class YourNewClass : ClassYouWantToInnerit
+		{
+			//things that only the new class will have
+			//all properties of the ClassYouWantToInherit are also now properties of this new class
+		}
 		
 		
 		
